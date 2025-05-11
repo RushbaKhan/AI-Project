@@ -109,19 +109,20 @@ https://github.com/user-attachments/assets/cb0ca127-8c69-4c11-a515-b3b53422464b
 ## 📄 Project Report
 
 For a detailed overview, including methodology, implementation, results, and challenges:  
-[📜 AI PROJECT REPORT.pdf](./AI%20PROJECT%20REPORT.pdf)  
-*(Click to view the PDF in GitHub's PDF viewer or download it)*.
+[AI PROJECT REPORT .pdf](https://github.com/user-attachments/files/20149713/AI.PROJECT.REPORT.pdf)
 
 ---
 
 ## 🖼️ Screenshots
 
 ### ByteBot UI
-![ByteBot UI](images/bytebot-ui.png)  
+![Bot UI](https://github.com/user-attachments/assets/9ff0863b-b022-41ca-96b5-263705693ece)
+
 Interact with your PDFs through a sleek Streamlit interface.
 
 ### Scrabble Game
-![Scrabble Game](images/scrabble-game.png)  
+ ![Scrabble UI](https://github.com/user-attachments/assets/59b97953-e99f-4d64-a83a-c0c5612ca720)
+
 Play against an AI opponent with a Tkinter-based graphical board.
 
 ---
