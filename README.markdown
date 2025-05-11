@@ -102,8 +102,7 @@ These are listed in `requirements.txt`, which you can download from the reposito
 ## 🎥 Demo Video
 
 Watch ByteBot and the Scrabble game in action:  
-[![Demo Video](images/demo-thumbnail.png)](https://your-video-link-here)  
-*(Click the thumbnail to watch the demo video. Replace `https://your-video-link-here` with the actual video URL)*.
+https://github.com/user-attachments/assets/cb0ca127-8c69-4c11-a515-b3b53422464b
 
 ---
 
